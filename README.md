@@ -1,35 +1,100 @@
-## Hi, I'm Abhishek Raghav👋  
+👋 Hi, I’m Abhishek Raghav
 
-Backend Developer | Software Engineer Intern Aspirant  
+Backend / Full-Stack Developer | Problem Solver | ECE @ VIT Vellore
 
-I enjoy building reliable, scalable backend systems and turning ideas into well-structured APIs.  
-Focused on clean architecture, performance, and problem-solving.
+I build scalable backend systems, clean APIs, and production-ready full-stack applications.
+I enjoy solving real engineering problems, optimizing data flow, and writing maintainable code that actually scales.
 
----
+🚀 About Me
 
-### 🔧 Tech Stack
-- **Languages:** Java, C, JavaScript  
-- **Backend:** Spring Boot, Node.js (basic)  
-- **Databases:** MySQL, PostgreSQL  
-- **Core CS:** Data Structures & Algorithms, OOP, DBMS  
-- **Tools:** Git, GitHub, Postman  
+🎓 B.Tech in Electronics & Communication Engineering — VIT Vellore (CGPA: 8.72)
 
----
+💼 Full-Stack Developer Intern @ Owl AI (Remote)
 
-### 🚀 What I Work On
-- RESTful APIs with proper authentication and validation  
-- Database-driven backend applications  
-- Clean code with layered architecture  
-- Solving DSA problems to strengthen fundamentals  
+🧠 Strong in DSA, backend architecture, and database design
 
----
+🎯 Actively seeking Backend / Software Developer Internship opportunities
 
-### 📌 Featured Projects
-- **Backend REST API** – Authentication, CRUD, role-based access  
-- **Database Management Project** – Optimized queries and schema design  
-- **System Design Mini Project** – Real-world backend use case  
+🛠️ Tech Stack
+8
 
-(Details inside pinned repositories)
+Languages
+Java C C++ JavaScript TypeScript Python
+
+Backend & Frameworks
+Node.js Express.js REST APIs React.js Streamlit
+
+Databases & Cloud
+MongoDB Firebase AWS
+
+Tools
+Git GitHub Postman VS Code
+
+💼 Experience
+Owl AI — Full Stack Web Developer Intern (Remote)
+
+Built and maintained production-level full-stack applications
+
+Designed RESTful APIs and integrated them with responsive frontends
+
+Implemented authentication, role-based access control, and optimized DB queries
+
+Worked in an Agile, Git-based collaborative environment
+
+📌 Featured Projects
+🔹 Resume Builder (MERN Stack)
+
+Full-stack resume builder with dynamic templates & live preview
+
+Google Authentication + Firebase real-time storage
+
+PDF export and production deployment
+👉 Pinned Repository
+
+🔹 Task Manager (To-Do Application)
+
+Secure CRUD-based task management system
+
+Built with React, Node.js, Express.js & MongoDB
+
+Authentication, persistent storage, responsive UI
+👉 Pinned Repository
+
+🔹 Weather Application
+
+Backend built using Node.js & Express
+
+Integrated OpenWeather API for real-time data
+
+City-based search with dynamic rendering
+
+🔹 LearnBot – AI Educational Chatbot
+
+Built using Python & Streamlit
+
+NLP-powered chapter summarization
+
+Generates interactive quizzes for learning support
+
+🏆 Achievements
+
+✅ Solved 150+ DSA problems on LeetCode
+
+🏅 Rank 1583 — LeetCode Weekly Contest 291
+
+📜 Certifications
+
+Mastering Problem Solving in DSA — Score: 95%
+
+Oracle Cloud Infrastructure 2025 – AI Foundations Associate
+
+📫 Let’s Connect
+
+🔗 GitHub: https://github.com/<your-username>
+
+💼 LinkedIn: (add your link)
+
+📧 Email: (add your email)
 
 ---
 
