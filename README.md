@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi, I'm Abhishek Raghav👋  
 
-<!--
-**abhi20at04/abhi20at04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Software Engineer Intern Aspirant  
 
-Here are some ideas to get you started:
+I enjoy building reliable, scalable backend systems and turning ideas into well-structured APIs.  
+Focused on clean architecture, performance, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Languages:** Java, C, JavaScript  
+- **Backend:** Spring Boot, Node.js (basic)  
+- **Databases:** MySQL, PostgreSQL  
+- **Core CS:** Data Structures & Algorithms, OOP, DBMS  
+- **Tools:** Git, GitHub, Postman  
+
+---
+
+### 🚀 What I Work On
+- RESTful APIs with proper authentication and validation  
+- Database-driven backend applications  
+- Clean code with layered architecture  
+- Solving DSA problems to strengthen fundamentals  
+
+---
+
+### 📌 Featured Projects
+- **Backend REST API** – Authentication, CRUD, role-based access  
+- **Database Management Project** – Optimized queries and schema design  
+- **System Design Mini Project** – Real-world backend use case  
+
+(Details inside pinned repositories)
+
+---
+
+### 🎯 Current Goal
+Actively seeking a **Backend Developer Internship** to gain hands-on experience with real production systems and learn industry-level backend engineering practices.
+
+---
+
+📫 **Contact:**  
+- GitHub: https://github.com/<your-username>  
+- Email: <your-email>
