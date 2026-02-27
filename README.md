@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raghav</h1>
-<h3 align="center">Backend / Full-Stack Developer | Software Engineer Intern</h3>
+<h3 align="center">Backend Developer | Software Engineer Intern</h3>
 
 <p align="center">
   <b>Building scalable backend systems, clean APIs, and production-ready applications</b>
